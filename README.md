@@ -10,6 +10,8 @@ What sets omni-stellar-omni-stellar-sidewalk apart is its **Stellar-powered acco
 
 > **If it’s on-chain, it can’t be swept under the rug.**
 
+[SIDEWALK FIGMA](https://www.figma.com/design/cH6GFhWhtgxzESR8pedNGl/omni-stellar-omni-stellar-sidewalk?node-id=0-1&t=n3OH48FSO4NjbBf3-1)
+
 ---
 
 ## 🌍 Why omni-stellar-omni-stellar-sidewalk?
