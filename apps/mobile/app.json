@@ -1,11 +1,17 @@
 {
   "expo": {
-    "name": "omni-stellar-omni-stellar-sidewalk",
+    "name": "omni-stellar-sidewalk",
     "slug": "omni-stellar-sidewalk",
-    "scheme": "omni-stellar-sidewalk",
     "version": "0.1.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "assetBundlePatterns": ["**/*"]
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro"
+    }
   }
 }
