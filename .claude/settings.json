@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm install *)",
+      "Bash(pnpm --filter @omni-stellar-sidewalk/shared build)",
+      "Bash(pnpm --filter @omni-stellar-sidewalk/shared test)",
+      "Bash(pnpm --filter @omni-stellar-sidewalk/api test)",
+      "Bash(pnpm --filter @omni-stellar-sidewalk/web test)"
+    ]
+  }
+}
