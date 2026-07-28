@@ -1,7 +1,7 @@
 import {
   groupedCaseNotificationSchema,
   type GroupedCaseNotification,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class NotificationGroupingService {
   private readonly groups: Map<string, GroupedCaseNotification> = new Map();
