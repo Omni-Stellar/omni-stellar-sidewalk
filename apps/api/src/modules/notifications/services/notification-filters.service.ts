@@ -3,8 +3,8 @@ import {
   type FilterPreset,
   type FilterOptions,
   type UrgencyLevel,
-} from '@qyou/shared';
-import { notificationFilterSchema, filterOptionsSchema } from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
+import { notificationFilterSchema, filterOptionsSchema } from '@omni-stellar-sidewalk/shared';
 
 export class NotificationFiltersService {
   private readonly filters: Map<string, NotificationFilter> = new Map();

@@ -2,7 +2,7 @@ import {
   preferenceUpdatePayloadSchema,
   type NotificationCategoryPreferences,
   type PreferenceUpdatePayload,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class NotificationPreferenceCenterService {
   private readonly userPreferences: Map<string, NotificationCategoryPreferences> = new Map();

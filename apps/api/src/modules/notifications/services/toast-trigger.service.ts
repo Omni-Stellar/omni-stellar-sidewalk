@@ -2,7 +2,7 @@ import {
   toastNotificationSchema,
   type ToastNotification,
   type StatusChangeContext,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class ToastTriggerService {
   public triggerStatusChangeToast(context: StatusChangeContext): ToastNotification {

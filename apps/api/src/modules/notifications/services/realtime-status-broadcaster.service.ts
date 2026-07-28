@@ -1,7 +1,7 @@
 import {
   toastNotificationMessageSchema,
   type RealtimeStatusPayload,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class RealtimeStatusBroadcasterService {
   public broadcastStatusChange(caseId: string, newStatus: string): RealtimeStatusPayload {

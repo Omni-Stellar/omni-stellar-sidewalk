@@ -2,7 +2,7 @@ import {
   lifecycleTriggerEvaluationPayloadSchema,
   type LifecycleTriggerEvaluationPayload,
   type ReportLifecycleStage,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class ReportLifecycleTriggerService {
   public evaluateTransition(

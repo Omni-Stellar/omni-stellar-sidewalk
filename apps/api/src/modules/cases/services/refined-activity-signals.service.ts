@@ -1,9 +1,8 @@
 import {
-  refinedProgressEventSchema,
   activityFeedStateSchema,
   type RefinedProgressEvent,
   type ActivityFeedState,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class RefinedActivitySignalsService {
   private readonly events: RefinedProgressEvent[] = [];

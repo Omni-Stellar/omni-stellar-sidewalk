@@ -1,7 +1,7 @@
 import {
   quietHoursScheduleSchema,
   type QuietHoursScheduleInput,
-} from '@qyou/shared';
+} from '@omni-stellar-sidewalk/shared';
 
 export class QuietHoursEvaluatorService {
   public isCurrentlyInQuietHours(schedule: QuietHoursScheduleInput, currentHour: number): boolean {
