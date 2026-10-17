@@ -1,17 +1,1 @@
-{
-  "expo": {
-    "name": "omni-stellar-sidewalk",
-    "slug": "omni-stellar-sidewalk",
-    "version": "0.1.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {},
-    "web": {
-      "bundler": "metro"
-    }
-  }
-}
+{\n  "expo": {\n    "name": "omni-stellar-omni-stellar-sidewalk",\n    "slug": "omni-stellar-sidewalk"\n  }\n}\n
