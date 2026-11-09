@@ -362,3 +362,12 @@ By combining reporting systems, identity, public tracking, and Stellar-backed ve
 # License
 
 MIT
+
+## Resolved Issues
+
+The following issues have been addressed in this release:
+
+- Added issue templates for bug reports and feature requests
+- Added contributing guidelines and CODEOWNERS
+- Improved repository documentation and onboarding
+
